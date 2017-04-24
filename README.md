@@ -7,10 +7,14 @@ Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 ## Начинаем делать сайт.
 
 	Берем понравившиеся заказчику сайт. ВЫбираем местечко и кидаем туда всю страничку с барахлом.
-	Я чищу его по ходу проекта, но это  - статический каталог продукции с возможностью расширения. А так, как живут сайты недолго, то дебажим в меру.
+	Я чищу его по ходу проекта, но это  - статический каталог продукции с возможностью расширения. 
+	А так, как живут сайты недолго, то дебажим в меру.
+
+## Веселье.
+
 
   
-## Markdown Help
+### Markdown Help
 
 Bold 	**bold**
 Italics 	*italics*
@@ -41,15 +45,8 @@ var code = "formatted";
  files    : 153
  authors  :
    977	TJ Holowaychuk          62.0%
-   132	Travis Jeffery          8.4%
-    63	Christopher Hiller      4.0%
-    31	Guillermo Rauch         2.0%
-    27	Joshua Appelman         1.7%
     1   Deema Lee               21.9%
 
 ## Links
 
-  - [Google Group](http://groups.google.com/group/mochajs)
-  - [Wiki](https://github.com/mochajs/mocha/wiki)
-  - Mocha [Extensions and reporters](https://github.com/mochajs/mocha/wiki)
 	```   
