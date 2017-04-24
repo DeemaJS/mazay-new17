@@ -18,6 +18,7 @@
     <meta property="og:description" content="Каталог">
     <link type="text/css" rel="stylesheet" href="mazceramics/bootstrap.css"> 
     <link type="text/css" rel="stylesheet" href="mazceramics/css/font-awesome.min.css"> 
+    <link href="mazceramics/fotorama/fotorama.css" rel="stylesheet">
     <link rel="icon" href="mazceramics/favicon.ico">
   <style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
   <body class="">
@@ -44,8 +45,8 @@
                     <div class="top-right">
                         <div class="register"> 
                             <div class="autoizations">
-                            <div  style="color: #db3d3c;">
-                                <a href="javascript:void(0)" style="color:black;">RU</a><span> || </span><a href="javascript:void(0)">EN</a> &nbsp;&nbsp;  </div>
+                            <div> <!-- style="color: #db3d3c;" -->
+                                <a href="javascript:void(0)" class="radius-lang">RU</a><span style="color:#db3d3c;" > | </span><a href="javascript:void(0)" class="radius-lang-eng">EN</a> &nbsp;&nbsp; </div>
                                 <!--  <a href="javascript:void(0)" onclick="form_callback()" role="button" data-toggle="modal" class="btn btn-danger">Заказать звонок</a> -->
                                 <div class="tel"><a href="callto:+380505319333">Виталий: +38 050 531 9333</a></div>
                                 <!--<div class="tel"><a href="mailto:sales@mazceramics.com">sales@mazceramics.com</a></div>-->                           
@@ -125,8 +126,14 @@
         
        <div class="container">
         <div class="row">
-            <div class="span12" id="block">
-                   
+            <div class="span12">
+                <div id="fotorama" data-width="1200" data-max-width="100%" data-fit="cover" data-height="600" data-ratio="17/9" data-loop="true" data-autoplay="true">
+                  <img src="mazceramics/products_new/IMGL3053.jpg">
+                  <img src="mazceramics/products_new/_MG_0584.jpg">
+                  <img src="mazceramics/products_new/_MG_0579.jpg">
+                  <img src="mazceramics/products_new/_MG_0590.jpg">                  
+              </div>
+
              
         </div></div></div>
     <!-- /slider revolution -->
@@ -494,5 +501,11 @@
 
     <!-- <script src="mazceramics/scripts.js" type="text/javascript"></script> -->
 	
+    <script src="mazceramics/fotorama/fotorama.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        $('#fotorama').fotorama();
+    });
+    </script>
 	
 </body></html>
