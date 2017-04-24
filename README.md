@@ -2,7 +2,8 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)]
 
-Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
+Часто просят сделать сайт за 10 минут. Заплатить? И удивится, узнав, что сайты не растут на деревьях.
+
 
 ## Начинаем делать сайт.
 
@@ -41,7 +42,7 @@ Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 
 
   
-### Markdown Help
+### Markdown Help for me from gitter
 
 Bold 	**bold**
 Italics 	*italics*
@@ -62,6 +63,7 @@ var code = "formatted";
 	``` (shift+enter for line break)
 var code = "formatted";
 
+
 ## Contributors
 
 ```
@@ -77,3 +79,4 @@ var code = "formatted";
 ## Links
 
 	```   
+Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
