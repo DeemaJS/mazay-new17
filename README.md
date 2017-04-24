@@ -6,7 +6,7 @@ Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 
 ## Начинаем делать сайт.
 
-	Берем понравившиеся зак
+	Берем понравившиеся заказчику сайт. 
 
   
 ## Markdown Help
