@@ -12735,6 +12735,11 @@ form.navbar-form input[type="text"]{border-color:#ccc;margin-top: 6px;}
     font-weight: 100;
  }
 
+ .open_sans, span.light.open_sans{
+    font-family: 'Open_Sans';
+    font-weight: 100;
+ }
+
 .radius-lang {
   border: 1px solid #db3d3c;
   border-radius: 7px 7px 7px 7px;
@@ -12753,4 +12758,19 @@ form.navbar-form input[type="text"]{border-color:#ccc;margin-top: 6px;}
 
 a.radius-lang:hover {
     color: #eeeeee;
+}
+
+.thumbnail {  
+  margin-bottom: 20px;  
+  background-color: #fff;
+  /* border: 1px solid #ddd; */
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;
+  text-align:center;
+}
+.thumbnail > img,
+.thumbnail a > img {
+  margin-right: auto;
+  margin-left: auto;
 }
