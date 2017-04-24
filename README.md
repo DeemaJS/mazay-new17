@@ -64,7 +64,21 @@ var code = "formatted";
 var code = "formatted";
 
 
+
+## Links 
+Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
+
 ## Contributors
 
- 
-Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
+```
+ project  : mazay
+ repo age : 2 years, 1 months
+ active   : 1 days
+ commits  : 1
+ files    : 153
+ authors  :
+   977	TJ Holowaychuk          62.0%
+    1   Deema Lee               21.9%
+```
+
+##END
