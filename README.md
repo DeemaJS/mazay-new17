@@ -1,8 +1,8 @@
 # mazay-new17
 
- [![Build Status](http://travis-ci.org/mochajs/mocha) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mochajs/mocha?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+(https://gitter.im/mochajs/mocha?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-  Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
+Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 
 
   
