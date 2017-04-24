@@ -1,9 +1,12 @@
 # mazay-new17
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mochajs/mocha?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)]
 
 Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 
+## Начинаем делать сайт.
+
+	Берем понравившиеся зак
 
   
 ## Markdown Help
