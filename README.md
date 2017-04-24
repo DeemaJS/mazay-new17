@@ -27,3 +27,25 @@
   - [Google Group](http://groups.google.com/group/mochajs)
   - [Wiki](https://github.com/mochajs/mocha/wiki)
   - Mocha [Extensions and reporters](https://github.com/mochajs/mocha/wiki)
+	```   
+  
+### Markdown Help
+
+Bold 	**bold**
+Italics 	*italics*
+Strikethrough 	~~strikethrough~~
+Header 	# H1 ## H2 ### H3
+item
+	* item
+Blockquote 	> blockquote
+@somebody (mention) 	@somebody
+#123 (issue) 	#123
+Link 	[title](http://)
+Image 	![alt](http://)
+code 	`code`
+LaTeX 	$$LaTeX code$$
+
+var code = "formatted";
+
+	``` (shift+enter for line break)
+var code = "formatted";
