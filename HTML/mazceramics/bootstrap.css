@@ -7896,7 +7896,8 @@ button.search {
 	left: 0;
 	width: 0;
 	height: 3px;
-	background: #db3d3c;
+	background: #7c28b8;
+	/* background: #db3d3c; */
 }
 form.navbar-form input[type="text"] {
 	padding: 7px;
@@ -12741,10 +12742,10 @@ form.navbar-form input[type="text"]{border-color:#ccc;margin-top: 6px;}
  }
 
 .radius-lang {
-  border: 1px solid #db3d3c;
+  border: 1px solid #7c28b8;
   border-radius: 7px 7px 7px 7px;
   padding: 5px;
-  background-color: #db3d3c;
+  background-color: #7c28b8;
   color: white;
 }
 
@@ -12773,4 +12774,11 @@ a.radius-lang:hover {
 .thumbnail a > img {
   margin-right: auto;
   margin-left: auto;
+}
+
+.radius-nav {
+  /* border: 1px solid #e7b9ff; */
+  border-radius: 5px;  
+  background-color: #e7b9ff;
+  color: #dddddd;  
 }
