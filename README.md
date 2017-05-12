@@ -110,12 +110,12 @@ Mazay is developer of ceramics in Slavyansk (http://mazceramics.com).
 ```
  project  : mazay
  repo age : 2 years, 1 months
- active   : 1 days
- commits  : 1
+ active   : 21 days
+ commits  : 7
  files    : 153
  authors  :
-   977	TJ Holowaychuk          62.0%
-    1   Deema Lee               21.9%
+   977	TJ Holowaychuk          42.0%
+    1   Deema Lee               57.9%
 ```
 
 ## END
